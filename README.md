@@ -1,2 +1,3 @@
 # BomberBlaster
-A bomber man clone test assigment
+A "Bomber Man" / "Dyna Blaster" game clone test assigment.
+
